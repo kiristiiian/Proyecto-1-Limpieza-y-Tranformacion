@@ -20,6 +20,9 @@ Preguntas de guía
 ¿Qué tipo de dato es la columna “release_year”? ¿Lo podes convertir a integer?
 La columna “listed_in” contiene diferentes valores separados por coma, ¿Podés crear una columna y quedarte con el primer valor?
 
+                                              ----EXTRA----
+Usar  la columna main_genre para contar la cantidad de series y películas por cada género principal  y mostrar en pantalla.                                            
+
 Herramientas recomendadas: Python o Excel
 
 
